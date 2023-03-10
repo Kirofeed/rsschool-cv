@@ -30,4 +30,16 @@ def square_sum(numbers):
         sum += numbers[i]
     return(sum)
 ```
+### Experience
+---
+#### So far, I have no experience in IT. But I'm interested in finding a job.
+### Education
+---
+* Minsk Gymnasium №41
+* Lyceum BSU
+
+### Languages
+---
+* English B1-B2
+* German B2
 
