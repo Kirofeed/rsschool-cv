@@ -12,4 +12,22 @@
 ---
 #### I am a communicative person, I have the skills to work in a team. I am able to resolve conflicts and problems. Open to learning new things. I can admit my mistakes
 
+### Skills
+* Pascal
+* HTML
+* CSS
+* Python
+* JavaScript
+* DataBase (Microsoft Access)
+
+### Code Example
+```
+def square_sum(numbers):
+    #your code here
+    sum = 0
+    for i in range(len(numbers)):
+        numbers[i] = numbers[i] * numbers[i]
+        sum += numbers[i]
+    return(sum)
+```
 
