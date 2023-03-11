@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    font-family: Raleway;
+}
+.intro{
+    background: linear-gradient(rgb(68, 67, 67), rgb(114, 112, 112), rgb(207, 203, 203));
+    margin: 50px auto;
+    display: flex;
+    width: 30%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+.intro img{
+    width: 200px;
+    margin: 0px;
+    margin-left: 320px;
+}
+.intro h1{
+    position: absolute;
+    left: 40px;
+    top: 30px;
+    color: #fff;
+    font-size: 35px;
+    font-weight: 100;
+    margin-right: 10%;
+}
