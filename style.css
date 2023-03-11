@@ -6,7 +6,7 @@ body{
     background: linear-gradient(rgb(68, 67, 67), rgb(114, 112, 112), rgb(207, 203, 203));
     margin: 50px auto;
     display: flex;
-    width: 30%;
+    width: 520px;
     position: relative;
     align-items: center;
     justify-content: center;
