@@ -1,1 +1,1 @@
-https://Kirofeed.github.io/rsschool-cv/cv
+https://Kirofeed.github.io/rsschool-cv/
